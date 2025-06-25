@@ -1,13 +1,32 @@
 # RETAIL-STORE-ANALYSIS
 ### PROJECT OVERVIEW
+
+
+
+
+
 ***
+
+
+
+
+
+
 In this project, data of a fictional retail store was obtained from Kaggle Datasets, which contained over 1000 rows of synthetic data representing the store’s sales transactions for the year 2023 and 2 days for January, 2024. The aim of the analysis was to glean insights of the business performance for 2023, which can be used to improve business operations in areas lagging and predict customer’s behavior. 
 ### DATA SOURCE
+
+
+
+
 ***
+
+
+
+
 Kaggle dataset
 ### TOOL USED
 ***
-Excel
+Microsoft Excel
 ### BUSINESS QUESTIONS
 ***
 - Total sales, transactions, and quantity
@@ -21,8 +40,8 @@ Excel
 ### ANALYSIS PROCESS
 ***
 - Data exploration
-- Data validation, 
-- Data cleaning, 
+- Data validation
+- Data cleaning
 - Data analysis
 - Visualization
 ### DATA EXPLORATION
@@ -108,10 +127,9 @@ The cleaning and transformation processes are essential to address errors and bl
 
 
 
-
-6. #### DASHBOARD
+ #### DASHBOARD
    ***
-A dashboard bringing toegther the key insights and findingd guided by the above business questions.
+A dashboard bringing together the key insights and findingd guided by the above business questions.
 
 
 
@@ -119,5 +137,10 @@ A dashboard bringing toegther the key insights and findingd guided by the above 
 
 
 
+### INSIGHTS
+**Females** and **young adults** are the **major cuatomers**, with the **elderly being the least**. Additionally, **electronics** is the most **commonly bought product category**. In 2023, the **lowest** sales was recorded in **September** while **May** had the **highest**, which is suprising as holiday periods are usually the ones with the highest traffic of purchases. 
+
+
 ### RECOMMENDATIONS
 ***
+Marketing efforts could be increased in other product categories, discounts and black sales could also be conducted during holiday periods to increase number of sales. 
