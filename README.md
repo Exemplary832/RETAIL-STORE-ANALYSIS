@@ -22,7 +22,11 @@ Excel
 ### DATA EXPLORATION
 For comprehension of the data, it was observed end to end. The data has over 1000 rows, and 9 columns bearing Transaction ID, Date, Customer ID, Gender, Age, Product Category. Quantity, Price Per Unit, and Total Amount. 
 
-![Uploading Pre-cleaning.jpg…]()
+
+
+![Pre-cleaning](https://github.com/user-attachments/assets/9d9451e7-4734-4745-8bd3-28481828d79b)
+![Pre-cleaning](https://github.com/user-attachments/assets/9d9451e7-4734-4745-8bd3-28481828d79b)
+
 
 
 ### DATA CLEANING
