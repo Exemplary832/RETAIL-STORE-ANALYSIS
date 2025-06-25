@@ -11,4 +11,27 @@ Excel
 - Sales by gender
 - Monthly sales trend
 - Product by age category
+### SKILLS DEMONSTRATED
+ Data cleaning, transformation, visualization
+### ANALYSIS PROCESS
+- Data exploration
+- Data validation, 
+- Data cleaning, 
+- Data analysis
+- Visualization
+### DATA EXPLORATION
+For comprehension of the data, it was observed end to end. The data has over 1000 rows, and 9 columns bearing Transaction ID, Date, Customer ID, Gender, Age, Product Category. Quantity, Price Per Unit, and Total Amount. 
 
+![Uploading Pre-cleaning.jpg…]()
+
+
+### DATA CLEANING
+The cleaning and transformation processes are essential to address errors and blanks, as well as inconsistent formatting and other data quality issues so as to remove unwarranted biases that might skew the analysis, and hence promote the reliability of the data, and inform business decisions for stakeholders of the retail business. 
+ As mistakes could happen during the transformation process, copy of the data was made to have a reference of the raw data as a backup.
+ Blanks were searched for using the conditional formatting in Excel. It was also utilized to aid easy visualization of duplicates and manipulation per column. 
+ To achieve objective of the analysis, data from 2024 were deleted. 
+ Extra columns- month, year were created using TEXT function from the date column. 
+ IFS function was used to distribute age categories into young adult, middle-aged and old 
+ ### DATA ANALYSIS AND VISUALIZATION
+ Total sales, transactions, and quantity
+ 
