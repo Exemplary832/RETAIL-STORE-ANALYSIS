@@ -25,7 +25,6 @@ For comprehension of the data, it was observed end to end. The data has over 100
 
 
 ![Pre-cleaning](https://github.com/user-attachments/assets/9d9451e7-4734-4745-8bd3-28481828d79b)
-![Pre-cleaning](https://github.com/user-attachments/assets/9d9451e7-4734-4745-8bd3-28481828d79b)
 
 
 
@@ -36,6 +35,19 @@ The cleaning and transformation processes are essential to address errors and bl
  To achieve objective of the analysis, data from 2024 were deleted. 
  Extra columns- month, year were created using TEXT function from the date column. 
  IFS function was used to distribute age categories into young adult, middle-aged and old 
- ### DATA ANALYSIS AND VISUALIZATION
- Total sales, transactions, and quantity
+
+
+
+
+![Post-cleaning](https://github.com/user-attachments/assets/9b3e9ac8-0a6e-4cb1-9176-cc6e7c985761)
+
+
  
+ ### DATA ANALYSIS AND VISUALIZATION
+ Total sales, transactions, and quantity: Total sales, total number of transactions and quantity of products bought were calculated using PIVOT Sum
+ 
+
+
+![PIVOT Tables](https://github.com/user-attachments/assets/ddd64e48-d475-4da0-b31f-db886d7d4906)
+
+
