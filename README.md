@@ -1,25 +1,32 @@
 # RETAIL-STORE-ANALYSIS
 ### PROJECT OVERVIEW
+***
 In this project, data of a fictional retail store was obtained from Kaggle Datasets, which contained over 1000 rows of synthetic data representing the store’s sales transactions for the year 2023 and 2 days for January, 2024. The aim of the analysis was to glean insights of the business performance for 2023, which can be used to improve business operations in areas lagging and predict customer’s behavior. 
 ### DATA SOURCE
+***
 Kaggle dataset
 ### TOOL USED
+***
 Excel
 ### BUSINESS QUESTIONS
+***
 - Total sales, transactions, and quantity
 - Sales by age category
 - Sales by gender
 - Monthly sales trend
 - Product by age category
 ### SKILLS DEMONSTRATED
+***
  Data cleaning, transformation, visualization
 ### ANALYSIS PROCESS
+***
 - Data exploration
 - Data validation, 
 - Data cleaning, 
 - Data analysis
 - Visualization
 ### DATA EXPLORATION
+***
 For comprehension of the data, it was observed end to end. The data has over 1000 rows, and 9 columns bearing Transaction ID, Date, Customer ID, Gender, Age, Product Category. Quantity, Price Per Unit, and Total Amount. 
 
 
@@ -29,6 +36,7 @@ For comprehension of the data, it was observed end to end. The data has over 100
 
 
 ### DATA CLEANING AND VALIDATION
+***
 The cleaning and transformation processes are essential to address errors and blanks, as well as inconsistent formatting and other data quality issues so as to remove unwarranted biases that might skew the analysis, and hence promote the reliability of the data, and inform business decisions for stakeholders of the retail business. 
  As mistakes could happen during the transformation process, copy of the data was made to have a reference of the raw data as a backup.
  Blanks were searched for using the conditional formatting in Excel. It was also utilized to aid easy visualization of duplicates and manipulation per column. 
@@ -44,6 +52,7 @@ The cleaning and transformation processes are essential to address errors and bl
 
  
  ### DATA ANALYSIS AND VISUALIZATION
+ ***
 1. #### Total sales, transactions, and quantity
     Total sales, total number of transactions and quantity of products bought were calculated using PIVOT Sum. 
  
@@ -101,6 +110,7 @@ The cleaning and transformation processes are essential to address errors and bl
 
 
 6. #### DASHBOARD
+   ***
 A dashboard bringing toegther the key insights and findingd guided by the above business questions.
 
 
@@ -110,3 +120,4 @@ A dashboard bringing toegther the key insights and findingd guided by the above 
 
 
 ### RECOMMENDATIONS
+***
